@@ -1,7 +1,6 @@
 - 👋 Hi, I’m João Paulo Ferreira Neto
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning  Node,React,Vue,React-Native,WebSockets
-- 💞️ I’m looking to collaborate on Artplace ,project at the social media 
+- 🌱 I’m currently learning  Node,React,Vue,React-Native,Springbot
 
 
 <!---
