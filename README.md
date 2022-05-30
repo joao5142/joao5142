@@ -1,4 +1,4 @@
-<h1>Olá Mundo ! Eu sou João Paulo,estudante de Ciências da Computação e futuro desenvolvedor web.<h1>
+<h1>Olá Mundo ! Eu sou João Paulo,desenvolvedor front-end e futuro dev full stack.<h1>
   
 <div align="center">
   <a href="https://github.com/joao5142">
