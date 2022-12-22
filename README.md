@@ -13,7 +13,7 @@
          nome:"João Paulo Ferreira Neto",
          idade:22,
          email:"joaopauloneto3687@gmail.com",
-         tecnologias:["React","VueJs","HTML","CSS","Bootstrap"],
+         tecnologias:["React","VueJs","HTML","CSS","SASS","Bootstrap"],
          sonhos:["Ter um piano","Viajar pelo mundo"]
          
   }
