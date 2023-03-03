@@ -1,4 +1,4 @@
-<h1>Olá Mundo ! Eu sou João Paulo,desenvolvedor front-end<h1>
+<h1>Olá Mundo ! Eu sou João Paulo,desenvolvedor front-end.<h1>
   
 <div align="center">
   <a href="https://github.com/joao5142">
