@@ -11,9 +11,9 @@
   ```js
   let dados = {
          nome:"João Paulo Ferreira Neto",
-         idade:22,
+         idade:23,
          email:"joaopauloneto3687@gmail.com",
-         tecnologias:["React","React Native","VueJs","SASS","Bootstrap","Styled Components"],
+         tecnologias:["React","React Native","VueJs","SASS","Bootstrap","Styled Components","Node","Laravel"],
          sonhos:["Ter um piano","Viajar pelo mundo"]
          
   }
