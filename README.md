@@ -6,8 +6,8 @@
   ```js
   let dados = {
          nome:"João Paulo Ferreira Neto",
-         idade:24,
-         email:"joaopauloneto3687@gmail.com",
+         idade:26,
+         email:"joaopauloneto3689@gmail.com",
          tecnologias:["VueJs", "NuxtJS", "AWS","Nest", "Laravel", "Mysql", "Docker", "Nginx"]
   }
  
