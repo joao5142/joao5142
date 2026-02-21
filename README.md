@@ -1,11 +1,6 @@
-<h1>Olá Mundo ! Eu sou João Paulo,desenvolvedor web.<h1>
+<h1>Me chamo João Paulo, sou desenvolvedor full stack.<h1>
   
-<div align="center">
-  <a href="https://github.com/joao5142">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao5142&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao5142&layout=compact&langs_count=7&theme=light"/>
-</div>
-  
+
   <h1>Sobre mim</h1>
   
   ```js
@@ -13,9 +8,7 @@
          nome:"João Paulo Ferreira Neto",
          idade:24,
          email:"joaopauloneto3687@gmail.com",
-         tecnologias:["VueJs", "NuxtJS", "React", "React Native", "SASS", "Bootstrap", "Vuetify", "Styled Components", "Node","Laravel"],
-         sonhos:["Ter um piano","Viajar pelo mundo"]
-         
+         tecnologias:["VueJs", "NuxtJS", "AWS","Nest", "Laravel", "Mysql", "Docker", "Nginx"]
   }
  
 ```
@@ -24,18 +17,6 @@
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px"  alt="Computador">
 </div>
   
- <h1>Tecnologias que Utilizo</h1>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-
-</div>
   
   <h1>Minhas Redes</h1>
   <div> 
