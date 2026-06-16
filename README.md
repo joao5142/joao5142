@@ -38,6 +38,7 @@ Gosto de resolver problemas reais de negócio usando engenharia bem aplicada, de
 - 🔧 Evolução de sistemas legados
 - 🖥️ Construção de aplicações web com Vue / Nuxt
 - 🎨 Construção de Design Systems
+- 📱 Criação e implementação em lojas de PWAs
 ---
 
 ## 💻 Stack principal
