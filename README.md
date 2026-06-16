@@ -100,13 +100,27 @@ Gosto de resolver problemas reais de negócio usando engenharia bem aplicada, de
 const joao = {
   role: "Software Engineer",
   focus: ["Backend", "Cloud", "Architecture", "Distributed Systems"],
-  cloud: ["AWS", "ECS", "Lambda", "API Gateway", "SNS", "SQS", "CloudWatch"],
+  aws: [
+    "ECS",
+    "ECR",
+    "Lambda",
+    "API Gateway",
+    "SNS",
+    "SQS",
+    "CloudWatch",
+    "Event Bridger",
+    "Step Functions",
+    "S3",
+    "Route 53",
+    "Cloudfront"
+  ],
   backend: ["Node.js", "TypeScript", "NestJS", "Laravel", "PHP"],
   frontend: ["Vue.js", "Nuxt.js"],
   databases: ["MySQL", "PostgreSQL", "Redis"],
   infra: ["Docker", "Terraform", "Nginx"],
   mindset: [
     "Clean Code",
+    "Code Design",
     "Observability",
     "Scalability",
     "Maintainability",
@@ -115,7 +129,6 @@ const joao = {
 };
 ```
 
----
 
 ---
 
