@@ -26,7 +26,7 @@ Gosto de resolver problemas reais de negócio usando engenharia bem aplicada, de
 
 ---
 
-## 🛠️ O que eu faço
+## 🛠️ Experiências
 
 - 🔌 Desenvolvimento de APIs e serviços backend
 - 🧩 Arquitetura de microsserviços
